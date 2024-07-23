@@ -1,5 +1,12 @@
 This is a new [**React Native**](https://reactnative.dev) project. A mobile app for currency conversion. 
 The App allows user to convert the currencies based on the exchanges rates predefined in the application also implemented CRUD operation in the application.
+
+## Screenshots
+![Screenshot 2024-07-23 174132](https://github.com/rohanbhatia56/CurrencyConverterReactNative/blob/main/Screenshot%202024-07-23%20174132.png)
+![Screenshot 2024-07-23 175009](https://github.com/rohanbhatia56/CurrencyConverterReactNative/blob/main/Screenshot%202024-07-23%20175009.png)
+![Screenshot 2024-07-23 175055](https://github.com/rohanbhatia56/CurrencyConverterReactNative/blob/main/Screenshot%202024-07-23%20175055.png)
+![Screenshot 2024-07-23 175131](https://github.com/rohanbhatia56/CurrencyConverterReactNative/blob/main/Screenshot%202024-07-23%20175131.png)
+
  
 ## Start the Metro Server
  
@@ -65,17 +72,3 @@ npm run test
     √ populateCurrencyConversion - should return empty array for unknown country 
     √ getConversionRate - should return correct conversion rates
  
-## Screenshots
-![Screenshot 2024-07-23 174132](https://github.com/rohanbhatia56/CurrencyConverterReactNative/blob/main/Screenshot%202024-07-23%20174132.png)
-![Screenshot 2024-07-23 175009](https://github.com/rohanbhatia56/CurrencyConverterReactNative/blob/main/Screenshot%202024-07-23%20175009.png)
-![Screenshot 2024-07-23 175055](https://github.com/rohanbhatia56/CurrencyConverterReactNative/blob/main/Screenshot%202024-07-23%20175055.png)
-![Screenshot 2024-07-23 175131](https://github.com/rohanbhatia56/CurrencyConverterReactNative/blob/main/Screenshot%202024-07-23%20175131.png)
-
-
-Screenshot 2024-07-23 175009.png
-screen shots added
-3 minutes ago
-Screenshot 2024-07-23 175055.png
-screen shots added
-3 minutes ago
-Screenshot 2024-07-23 175131.png
