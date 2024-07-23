@@ -66,7 +66,16 @@ npm run test
     √ getConversionRate - should return correct conversion rates
  
 ## Screenshots
-![Screenshot_1721193372](https://github.com/user-attachments/assets/8de46bd2-805c-44ee-9e2c-a81b7ed56fcb)
-![Screenshot_1721193403](https://github.com/user-attachments/assets/e146e841-5652-47ca-bf8d-75ff02e4ed34)
-![Screenshot_1721193395](https://github.com/user-attachments/assets/644d8002-f611-488c-83d4-a20c14551ebd)
-![Screenshot_1721193381](https://github.com/user-attachments/assets/614e637e-cf56-4eb0-abda-750c87b82a1d)
+![Screenshot 2024-07-23 174132](https://github.com/rohanbhatia56/CurrencyConverterReactNative/blob/main/Screenshot%202024-07-23%20174132.png)
+![Screenshot 2024-07-23 175009](https://github.com/rohanbhatia56/CurrencyConverterReactNative/blob/main/Screenshot%202024-07-23%20175009.png)
+![Screenshot 2024-07-23 175055](https://github.com/rohanbhatia56/CurrencyConverterReactNative/blob/main/Screenshot%202024-07-23%20175055.png)
+![Screenshot 2024-07-23 175131](https://github.com/rohanbhatia56/CurrencyConverterReactNative/blob/main/Screenshot%202024-07-23%20175131.png)
+
+
+Screenshot 2024-07-23 175009.png
+screen shots added
+3 minutes ago
+Screenshot 2024-07-23 175055.png
+screen shots added
+3 minutes ago
+Screenshot 2024-07-23 175131.png
